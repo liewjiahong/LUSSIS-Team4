@@ -10,9 +10,11 @@
     <form id="form1" runat="server">
     <div>
     
-        <asp:CheckBox ID="CheckBox1" runat="server" />
+        <asp:DropDownList ID="DropDownList1" runat="server">
+        </asp:DropDownList>
     
     </div>
+        <asp:Button ID="Button1" runat="server" Text="Button" />
     </form>
 </body>
 </html>
