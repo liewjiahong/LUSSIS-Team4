@@ -16,6 +16,8 @@
         <asp:Image ID="Image1" runat="server" />
         <asp:ListBox ID="ListBox1" runat="server"></asp:ListBox>
     </div>
+        <asp:Button ID="Button1" runat="server" Text="Button" />
+        <asp:ImageMap ID="ImageMap1" runat="server"></asp:ImageMap>
     </form>
 </body>
 </html>
