@@ -14,6 +14,7 @@
     </div>
         <asp:RadioButton ID="RadioButton1" runat="server" />
         <asp:DropDownList ID="DropDownList1" runat="server"></asp:DropDownList>
+        <asp:Calendar ID="Calendar1" runat="server"></asp:Calendar>
     </form>
 </body>
 </html>
