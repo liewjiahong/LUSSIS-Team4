@@ -17,6 +17,7 @@
         <br />
         <asp:CheckBox ID="CheckBox1" runat="server" />
         <br />
+        <asp:Calendar ID="Calendar1" runat="server"></asp:Calendar>
         <br />
     
     </div>
