@@ -120,6 +120,7 @@
     </Compile>
     <Compile Include="branch test1.aspx.designer.cs">
       <DependentUpon>branch test1.aspx</DependentUpon>
+    </Compile>
     <Compile Include="JHTest.aspx.cs">
       <DependentUpon>JHTest.aspx</DependentUpon>
       <SubType>ASPXCodeBehind</SubType>
