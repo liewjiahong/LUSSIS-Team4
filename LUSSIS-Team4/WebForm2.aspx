@@ -14,6 +14,7 @@
         <asp:ListBox ID="ListBox1" runat="server"></asp:ListBox>
     </div>
         <asp:RadioButton ID="RadioButton1" runat="server" />
+        <asp:DropDownList ID="DropDownList1" runat="server"></asp:DropDownList>
     </form>
 </body>
 </html>
