@@ -10,9 +10,14 @@
     <form id="form1" runat="server">
     <div>
     
-        <asp:CheckBox ID="CheckBox1" runat="server" />
+        <asp:DropDownList ID="DropDownList1" runat="server">
+        </asp:DropDownList>
     
+        <asp:Image ID="Image1" runat="server" />
+        <asp:ListBox ID="ListBox1" runat="server"></asp:ListBox>
     </div>
+        <asp:Button ID="Button1" runat="server" Text="Button" />
+        <asp:ImageMap ID="ImageMap1" runat="server"></asp:ImageMap>
     </form>
 </body>
 </html>
