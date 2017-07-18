@@ -17,6 +17,7 @@
         <asp:HyperLink ID="HyperLink1" runat="server">HyperLink</asp:HyperLink>
     </div>
         <asp:Button ID="Button1" runat="server" Text="Button" />
+        <asp:ImageMap ID="ImageMap1" runat="server"></asp:ImageMap>
     </form>
 </body>
 </html>
