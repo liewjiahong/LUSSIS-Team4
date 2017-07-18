@@ -17,7 +17,10 @@
         <br />
         <asp:CheckBox ID="CheckBox1" runat="server" />
         <br />
+        <asp:Calendar ID="Calendar1" runat="server"></asp:Calendar>
         <br />
+        hello im bailing
+        hello im jiahong
     
         hello im jiahong at 5.10am
     </div>
