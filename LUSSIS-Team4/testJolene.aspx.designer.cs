@@ -7,13 +7,11 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace LUSSIS_Team4
-{
-
-
-    public partial class testJolene
-    {
-
+namespace LUSSIS_Team4 {
+    
+    
+    public partial class testJolene {
+        
         /// <summary>
         /// form1 control.
         /// </summary>
