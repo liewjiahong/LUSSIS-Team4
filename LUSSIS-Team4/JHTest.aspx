@@ -1,4 +1,4 @@
-﻿<%@ Page Language="C#" AutoEventWireup="true" CodeBehind="testJolene.aspx.cs" Inherits="LUSSIS_Team4.testJolene" %>
+﻿<%@ Page Language="C#" AutoEventWireup="true" CodeBehind="JHTest.aspx.cs" Inherits="LUSSIS_Team4.JHTest" %>
 
 <!DOCTYPE html>
 
@@ -9,7 +9,7 @@
 <body>
     <form id="form1" runat="server">
     <div>
-    i dont know what I am doing! 2
+    
     </div>
     </form>
 </body>

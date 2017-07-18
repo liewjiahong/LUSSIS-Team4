@@ -95,6 +95,7 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="branch test1.aspx" />
+    <Content Include="JHTest.aspx" />
     <Content Include="packages.config" />
     <Content Include="ApplicationInsights.config">
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
@@ -119,6 +120,12 @@
     </Compile>
     <Compile Include="branch test1.aspx.designer.cs">
       <DependentUpon>branch test1.aspx</DependentUpon>
+    <Compile Include="JHTest.aspx.cs">
+      <DependentUpon>JHTest.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="JHTest.aspx.designer.cs">
+      <DependentUpon>JHTest.aspx</DependentUpon>
     </Compile>
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="testJolene.aspx.cs">
