@@ -10,9 +10,13 @@
     <form id="form1" runat="server">
     <div>
     
+        <asp:DropDownList ID="DropDownList1" runat="server">
+        </asp:DropDownList>
+    
         <asp:CheckBox ID="CheckBox1" runat="server" />
         <asp:HyperLink ID="HyperLink1" runat="server">HyperLink</asp:HyperLink>
     </div>
+        <asp:Button ID="Button1" runat="server" Text="Button" />
     </form>
 </body>
 </html>
