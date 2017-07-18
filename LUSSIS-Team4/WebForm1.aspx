@@ -13,10 +13,9 @@
         <asp:DropDownList ID="DropDownList1" runat="server">
         </asp:DropDownList>
     
-        <asp:CheckBox ID="CheckBox1" runat="server" />
-        <asp:HyperLink ID="HyperLink1" runat="server">HyperLink</asp:HyperLink>
+        <asp:Image ID="Image1" runat="server" />
+        <asp:ListBox ID="ListBox1" runat="server"></asp:ListBox>
     </div>
-        <asp:Button ID="Button1" runat="server" Text="Button" />
     </form>
 </body>
 </html>
