@@ -15,6 +15,7 @@
         <asp:DropDownList ID="DropDownList1" runat="server">
         </asp:DropDownList>
         <br />
+        <asp:CheckBox ID="CheckBox1" runat="server" />
         <br />
         <br />
     
