@@ -11,7 +11,7 @@
     <div>
     
         <asp:CheckBox ID="CheckBox1" runat="server" />
-    
+        <asp:HyperLink ID="HyperLink1" runat="server">HyperLink</asp:HyperLink>
     </div>
     </form>
 </body>
